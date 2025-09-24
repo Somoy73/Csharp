@@ -1,0 +1,14 @@
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/bin/Debug/net9.0/E9Operators
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/bin/Debug/net9.0/E9Operators.deps.json
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/bin/Debug/net9.0/E9Operators.runtimeconfig.json
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/bin/Debug/net9.0/E9Operators.dll
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/bin/Debug/net9.0/E9Operators.pdb
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/obj/Debug/net9.0/E9Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/obj/Debug/net9.0/E9Operators.AssemblyInfoInputs.cache
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/obj/Debug/net9.0/E9Operators.AssemblyInfo.cs
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/obj/Debug/net9.0/E9Operators.csproj.CoreCompileInputs.cache
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/obj/Debug/net9.0/E9Operators.dll
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/obj/Debug/net9.0/refint/E9Operators.dll
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/obj/Debug/net9.0/E9Operators.pdb
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/obj/Debug/net9.0/E9Operators.genruntimeconfig.cache
+/Users/somoysu/RiderProjects/EarlyCSharp/E9Operators/obj/Debug/net9.0/ref/E9Operators.dll
